@@ -1,2 +1,3 @@
-# jffa
-This repository contains a collection of jupyter-notebooks for my **just-for-fun-analytics**-projects.
+# formula1-evaluations
+
+This repository contains a collection of analytic-notebooks about formula1-related data.
